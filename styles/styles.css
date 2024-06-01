@@ -706,7 +706,7 @@ img {vertical-align: middle;}
     }
     .contenido2-parte1-2-1{
       width: 50%;
-      background-image: url(/imagenes/slide-02.jpg);
+      background-image: url(https://raw.githubusercontent.com/kengan95/slider-carrusel/main/imagenes/slide-02.jpg);
       background-position: center center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -736,7 +736,7 @@ img {vertical-align: middle;}
     }
     .contenido2-parte2{
       width: 40%;
-      background-image: url(/imagenes/img4.jpg);
+      background-image: url(https://raw.githubusercontent.com/kengan95/slider-carrusel/main/imagenes/img4.jpg);
       background-position: center center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -804,7 +804,7 @@ img {vertical-align: middle;}
     }
     .contenedor3-1-2{
       width: 50%;
-      background-image: url(/imagenes/img4.jpg);
+      background-image: url(https://raw.githubusercontent.com/kengan95/slider-carrusel/main/imagenes/img4.jpg);
       background-position: center center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -857,21 +857,21 @@ img {vertical-align: middle;}
     }
     .contenedor4-1-2-1{
       width: 50%;
-      background-image: url(/imagenes/slide-02.jpg);
+      background-image: url(https://raw.githubusercontent.com/kengan95/slider-carrusel/main/imagenes/slide-02.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     }
     .contenedor4-3{
       width: 50%;
-      background-image: url(/imagenes/slide-03.jpeg);
+      background-image: url(https://raw.githubusercontent.com/kengan95/slider-carrusel/main/imagenes/slide-03.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     }
     .contenedor4-2-1{
       width: 50%;
-      background-image: url(/imagenes/slide-02.jpg);
+      background-image: url(https://raw.githubusercontent.com/kengan95/slider-carrusel/main/imagenes/slide-02.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1021,7 +1021,7 @@ img {vertical-align: middle;}
 
     /*contenido6*/
     .contenido6{
-      background-image: url(/imagenes/slide-03.jpeg);
+      background-image: url(https://raw.githubusercontent.com/kengan95/slider-carrusel/main/imagenes/slide-03.jpeg);
       background-position: center center;
       background-repeat: no-repeat;
       background-size: cover;
